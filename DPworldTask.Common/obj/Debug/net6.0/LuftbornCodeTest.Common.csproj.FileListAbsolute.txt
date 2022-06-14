@@ -1,0 +1,15 @@
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\bin\Debug\net6.0\LuftbornCodeTest.Common.deps.json
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\bin\Debug\net6.0\LuftbornCodeTest.Common.dll
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\bin\Debug\net6.0\LuftbornCodeTest.Common.pdb
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.csproj.AssemblyReference.cache
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.AssemblyInfoInputs.cache
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.AssemblyInfo.cs
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.csproj.CoreCompileInputs.cache
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.dll
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\refint\LuftbornCodeTest.Common.dll
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.pdb
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\ref\LuftbornCodeTest.Common.dll
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\bin\Debug\net6.0\LuftbornCodeTest.DataAccess.dll
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\bin\Debug\net6.0\LuftbornCodeTest.DataAccess.pdb
+D:\LuftbornCodeTest\LuftbornCodeTest.Common\obj\Debug\net6.0\LuftbornCodeTest.Common.csproj.CopyComplete

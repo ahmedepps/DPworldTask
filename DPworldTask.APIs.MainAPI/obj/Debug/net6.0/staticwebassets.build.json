@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RG1Kok2rS7VKu3ZRrTjok9r6P22hX8oMWbsU/2EQ2Co=",
+  "Source": "DPworldTask.APIs.MainAPI",
+  "BasePath": "_content/DPworldTask.APIs.MainAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
